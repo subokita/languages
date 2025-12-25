@@ -13,11 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Languages/🏴󠁧󠁢󠁷󠁬󠁳󠁿 Welsh/08. Nouns.md",
+                "file": "Languages/🇯🇵 Japanese 🔒/Vocabs/PLUTO.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
+                "source": true,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "PLUTO"
             }
           }
         ]
@@ -39,8 +41,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -55,7 +60,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -63,7 +70,9 @@
             "type": "leaf",
             "state": {
               "type": "starred",
-              "state": {}
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "starred"
             }
           },
           {
@@ -71,7 +80,9 @@
             "type": "leaf",
             "state": {
               "type": "mk-file-view",
-              "state": {}
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "mk-file-view"
             }
           },
           {
@@ -79,7 +90,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -102,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Languages/🏴󠁧󠁢󠁷󠁬󠁳󠁿 Welsh/08. Nouns.md",
+                "file": "Languages/🇯🇵 Japanese 🔒/Vocabs/PLUTO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for PLUTO"
             }
           },
           {
@@ -119,10 +134,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Languages/🏴󠁧󠁢󠁷󠁬󠁳󠁿 Welsh/08. Nouns.md",
+                "file": "Languages/🇯🇵 Japanese 🔒/Vocabs/PLUTO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from PLUTO"
             }
           },
           {
@@ -132,8 +149,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -142,8 +163,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Languages/🏴󠁧󠁢󠁷󠁬󠁳󠁿 Welsh/08. Nouns.md"
-              }
+                "file": "Languages/🇯🇵 Japanese 🔒/Vocabs/PLUTO.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of PLUTO"
             }
           },
           {
@@ -151,7 +177,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -159,7 +187,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -167,7 +197,23 @@
             "type": "leaf",
             "state": {
               "type": "todo",
-              "state": {}
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
+          },
+          {
+            "id": "31b23417550b9305",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ],
@@ -180,6 +226,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -193,8 +240,11 @@
   },
   "active": "723b37553d46f02c",
   "lastOpenFiles": [
-    "Languages/🏴󠁧󠁢󠁷󠁬󠁳󠁿 Welsh/07. Articles.md",
+    "Languages/🇯🇵 Japanese 🔒/09. Trying Something or Attempting to Do Something.md",
+    "Languages/🇯🇵 Japanese 🔒/Vocabs/PLUTO.md",
+    "Languages/🇯🇵 Japanese 🔒/Vocabs",
     "Languages/🏴󠁧󠁢󠁷󠁬󠁳󠁿 Welsh/08. Nouns.md",
+    "Languages/🏴󠁧󠁢󠁷󠁬󠁳󠁿 Welsh/07. Articles.md",
     "Languages/🏛️ Latin/01. Pronouns.md",
     "Languages/🇹🇿 Swahili/10. Relative Clauses and Reference Pronouns.md",
     "Languages/🇹🇷 Turkish/24. Possessive, Reflexive, and Reciprocal Pronouns.md",
@@ -220,8 +270,6 @@
     "Languages/Untitled",
     "Languages/🏛️ Latin/Untitled",
     "Languages/🏛️ Latin",
-    "Languages/🇮🇳 Hindi/11. Continuous Aspect.md",
-    "Languages/🇮🇳 Hindi/12. Perfect Forms.md",
     "Languages/🇰🇷 Korean/Lesson27Past.png",
     "Lesson27Past.png",
     "Untitled 1.canvas",
@@ -231,7 +279,6 @@
     "Context",
     "Languages/🇸🇪 Swedish 🔒",
     "Languages/🇷🇺 Russian",
-    "Languages/🇵🇱 Polish",
-    "Languages/🇮🇪 Irish"
+    "Languages/🇵🇱 Polish"
   ]
 }
